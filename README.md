@@ -1,11 +1,12 @@
-## Hi there 👋
+## Hola, soy silvia 👋
+
 
 <!--
 **silviatorres21/silviatorres21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 Actualmente estoy en transición al mundo de la tecnología como QA tester 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
