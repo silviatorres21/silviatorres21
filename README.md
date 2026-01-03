@@ -8,8 +8,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Actualmente estoy en transición al mundo de la tecnología como QA tester 
-- 🌱 Estoy en constante preparación para mejorar mis habilidades en QA tester manual y automaticas
+#🔭 Actualmente estoy en transición al mundo de la tecnología como QA tester 
+#🌱 Estoy en constante preparación para mejorar mis habilidades en QA tester manual y automaticas
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
